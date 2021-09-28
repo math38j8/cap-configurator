@@ -1,0 +1,9 @@
+#shadow {
+  pointer-events: none;
+}
+
+.color-selector {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
